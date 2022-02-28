@@ -1,0 +1,6 @@
+name,cmp,salary,tech
+Arjun,LANET,35000,JS
+Devsagar,NJ,40000,Java Spring
+Hetvi,BBD,45000,Android
+Shubham,BBD,45000,Java
+Krunal,Triveni,38000,DOT NET

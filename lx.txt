@@ -1,0 +1,74 @@
+let da = document.querySelectorAll(".KL4NAf");
+let arr=[];
+for(let i=0;i<da.length;i++) arr.push(da[i].innerHTML);
+arr.map(item=>console.log(item.slice(0,-4)));
+
+
+*---------- 02 Functions and loops in Python ----------*
+02-01 Introduction to this section
+02-02 If statements in Python
+02-03 While loops in Python
+02-04 For loops, range(), and tuple destructuring in Python
+02-05 Two important loop keywords + finding prime numbers
+02-06 List slicing in Python
+02-07 List comprehension in Python
+02-08 Set and dictionary comprehensions
+02-09 Functions, arguments, and parameters in Python
+02-10 Functions and return values in Python
+02-11 Lambda, first-class, and higher order functions in Python
+02-12 Conclusion of this section
+---------- ---------- ---------- ---------- ----------
+
+*---------- --- 03 Milestone (Project 1) --- ----------*
+03-01 Introduction to this section
+03-02 Installing Python in your computer
+03-03 Installing PyCharm in your computer
+03-04 Creating our first PyCharm project
+03-05 Setting up PyCharm font and display settings
+03-06 Coding our application's menu in Python
+03-07 Adding new movies to our application
+03-08 Showing the user their movies
+03-09 Finding movies and retrieving their details
+03-10 Conclusion of this section
+---------- ---------- ---------- ---------- ----------
+
+*----- 04 Object-Oriented Programming with Python -----*
+04-01 Introduction to this section
+04-02 Intro to Object-Oriented Programming with Python
+04-03 More about classes and objects
+04-04 Parameter naming in Python
+04-05 Magic methods in Python
+
+04-06 Inheritance in Python
+04-07 The @property decorator
+04-08 @classmethod and @staticmethod in Python
+04-09 More @classmethod and @staticmethod examples
+04-10 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- ----- 05 Errors in Python ------ ----------*
+05-01 Introduction to this section
+05-02 Intro to errors in Python
+05-03 Built in errors in Python
+05-04 Raising errors in Python
+05-05 Creating our own errors in Python
+05-06 Dealing with Python errors
+05-07 The on success block and re-raising exceptions
+05-08 Handling those pesky user errors!
+05-09 Debugging with Pycharm
+05-10 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- ------ 06 Files in Python ------ ----------*
+06-01 Introduction to this section
+06-02 Files in Python
+06-03 Python Exercise. Copying files
+06-04 CSV files with Python
+06-05 JSON files with Python
+06-06 Using the with syntax in Python
+06-07 Importing our own files
+06-08 Python relative imports. Children
+06-09 Python relative imports. Parents
+06-10 Import errors and running as a Python script
+06-11 Conclusion of this section
+---------- ---------- ---------- ---------- ----------
