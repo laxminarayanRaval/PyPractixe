@@ -1,3 +1,4 @@
+from utils.file_operations import saveFile_data, readFile_data
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -12,5 +13,8 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
+
+saveFile_data("this is demo file roger that\n", "demo.txt")
+print(readFile_data("demo.txt"))
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/

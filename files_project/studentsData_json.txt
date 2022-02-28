@@ -1,0 +1,46 @@
+{
+   "Student": [
+      {
+         "Name": "Subham Mishra",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 9.53
+      },
+      {
+         "Name": "Laxminarayan Raval",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 9.98
+      },
+      {
+         "Name": "Arjun Chaudhary",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 9.21
+      },
+      {
+         "Name": "Hetvi Patel",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 9.89
+      },
+      {
+         "Name": "Darshana Patel",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 9.0
+      },
+      {
+         "Name": "Krunal Shah",
+         "Course": "MCA",
+         "University": "VNSGU",
+         "Grade": 8.9
+      },
+      {
+         "Name": "Ranjan Pradhan",
+         "Course": "MCA",
+         "University": "SU",
+         "Grade": 10.0
+      }
+   ]
+}
