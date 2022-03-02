@@ -38,7 +38,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 04-03 More about classes and objects
 04-04 Parameter naming in Python
 04-05 Magic methods in Python
-
 04-06 Inheritance in Python
 04-07 The @property decorator
 04-08 @classmethod and @staticmethod in Python
@@ -64,7 +63,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 06-02 Files in Python
 06-03 Python Exercise. Copying files
 06-04 CSV files with Python
-
 06-05 JSON files with Python
 06-06 Using the with syntax in Python
 06-07 Importing our own files
@@ -91,8 +89,117 @@ arr.map(item=>console.log(item.slice(0,-4)));
 07-14 Filtering with WHERE
 07-15 Finishing the Milestone Project
 07-16 Ordering and limiting
-07-17 Developing our context manager in Python
 
+07-17 Developing our context manager in Python
 07-18 Errors in context managers
 07-19 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- --- 08 Type hinting in Python -- ----------*
+08-01 Introduction to this section 
+08-02 Typing in Python 
+08-03 Further reading 
+08-04 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*------ 09 Advanced built-in functions in Python ------*
+09-01 Introduction to this section 
+09-02 Generators in Python 
+09-03 Python generator classes and iterators 
+09-04 Iterables in Python 
+09-05 The filter() function in Python 
+09-06 The map() function in Python 
+09-07 any() and all() in Python 
+09-08 The enumerate() function 
+09-09 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- - 10 Advanced Python Development ----------*
+10-01 Introduction to this section 
+10-02 Mutability in Python 
+10-03 Argument mutability in Python 
+10-04 Default values for parameters 
+10-05 Mutable default arguments (bad idea) 
+10-06 Argument unpacking in Python 
+10-07 Queues in Python 
+10-08 Some interesting Python collections 
+10-09 Timezones 
+10-10 Dates and time in Python 
+10-11 Timing your code with Python 
+10-12 Regular expressions 
+10-13 Regex examples 
+10-14 Introduction to logging in Python 
+10-15 Logging to a file and other features 
+10-16 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- -- 11 Web Scraping with Python - ----------*
+11-01 Introduction to this section 
+11-02 Understanding HTML with BeautifulSoup 
+11-03 More complex HTML parsing 
+11-04 Structuring our parsing program better 
+11-05 Splitting HTML locators out of our Python class 
+11-06 Understanding HTML with the browser 
+11-07 Scraping our first website with Python 
+11-08 Milestone Project 3. A Quote Scraper 
+11-09 Quotes Project 2. Structuring a scraping app in Python 
+11-10 Quotes Project 3. Getting our locators 
+11-11 Quotes Project 4. Crafting our quote parser 
+11-12 Quotes Project 5. The quotes page 
+11-13 Quotes Project 6. Recap of the project
+
+__ BeautifulSoup isn't installing take rest when done __
+11-14 Milestone Project 4. A Book Scraper + application 
+11-15 Books Project 2. Recap of HTML locators 
+11-16 Books Project 3. Creating locators in Python 
+11-17 Books Project 4. Creating our page 
+11-18 Books Project 5. Creating our book parser 
+11-19 Books Project 6. Writing our app file 
+11-20 Books Project 7. Sorting the books 
+11-21 Books Project 8. Constructing our menu 
+11-22 ASIDE. The best way to write user menus 
+11-23 Books Project 9. Getting multiple pages 
+11-24 Books Project 10. Multiple pages in Python 
+11-25 Books Project 11. Getting the page count in Python 
+11-26 Books Project 12. Adding logging to our Python project 
+11-27 A word on scraping pages with JavaScript 
+11-28 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*--------- 12 Asynchronous Python Development ---------*
+12-01 Introduction to this section
+12-02 The Dining Philosophers Problem
+12-03 Processes and threads
+12-04 The Python GIL
+12-05 Example. Threads in Python
+12-06 Using Python concurrent.futures. The ThreadPoolExecutor
+12-07 Don't kill threads!
+12-08 Multiprocessing in Python
+12-09 Using Python concurrent.futures. The ProcessPoolExecutor
+12-10 Dealing with shared state in threads
+12-11 Queuing in threads with shared state
+12-12 Using Python generators instead of threads
+12-13 Our first single-threaded task scheduler in Python
+12-14 Yielding from another iterator in Python
+12-15 Receiving data through yield
+12-16 The async and await keywords
+12-17 Watch these talks for more explanations and examples!
+12-18 Our asynchronous scraper
+12-19 Making our first async request in Python
+12-20 Getting multiple pages efficiently
+12-21 Using async_timeout for security
+12-22 Turning our book scraping project async
+12-23 A note on HTTPS with Python and Mac OS X
+12-24 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*13 Python on the console and managing project dependencies*
+13-01 Intro to this section
+13-02 Running Python in the console
+13-03 Terminal video. Running Python
+13-04 Terminal video. What is a virtualenv
+13-05 Terminal video. Navigating the terminal and using virtualenv
+13-06 Terminal video. Using Pipenv
+13-07 Terminal video. Pipenv and virtualenv
+13-08 Conclusion of this section
 *---------- ---------- ---------- ---------- ----------*

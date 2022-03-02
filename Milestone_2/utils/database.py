@@ -1,7 +1,10 @@
+import logging
 from .database_connection import DatabaseConnection
+
 """
 Concerned with storing and retrieving books from a list.
 """
+logging.basicConfig(filename='booksApp.log', level=logging.DEBUG)
 # books = list()
 db_name = 'Books.db'
 
@@ -25,6 +28,7 @@ def create_table_book():
     qry = "CREATE TABLE IF NOT EXISTS books(name text primary key, author text, read integer)"
     # creating a table
     aud(qry)
+    logging.info('Table Created')
 
 
 def add_book(name, author):
