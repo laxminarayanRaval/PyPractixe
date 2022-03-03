@@ -148,7 +148,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 11-12 Quotes Project 5. The quotes page 
 11-13 Quotes Project 6. Recap of the project
 
-## Not Uploaded
 __ BeautifulSoup isn't installing take rest when done __
 11-14 Milestone Project 4. A Book Scraper + application 
 11-15 Books Project 2. Recap of HTML locators 
@@ -194,7 +193,6 @@ __ BeautifulSoup isn't installing take rest when done __
 12-24 Conclusion of this section
 *---------- ---------- ---------- ---------- ----------*
 
-## Not Uploaded
 *13 Python on the console and managing project dependencies*
 13-01 Intro to this section
 13-02 Running Python in the console

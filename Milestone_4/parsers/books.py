@@ -6,7 +6,7 @@ class BooksParser:
     Give one specific Book products article, get the data about
     Books ( title, ratings, price)
     """
-    TXTNUM = {
+    __TXTNUM__ = {
         'One': 1,
         'Two': 2,
         'Three': 3,
@@ -33,7 +33,7 @@ class BooksParser:
     @property
     def ratings(self):
         locator = BooksLocators.RATINGS
-        return self.TXTNUM[self.parent.select_one(locator).attrs['class'][1]]  # Txt "One" to Num "1"
+        return self.__TXTNUM__[self.parent.select_one(locator).attrs['class'][1]]  # Txt "One" to Num "1"
 
     @property
     def price(self):
