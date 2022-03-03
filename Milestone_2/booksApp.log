@@ -1,0 +1,6 @@
+2022-03-03 12:42:46,554 INFO     [database.py:31] Table Created if Not Exists
+2022-03-03 12:42:46,554 DEBUG    [database.py:45] Retriving Data From Table
+2022-03-03 12:43:06,289 CRITICAL [database.py:53] Deleteing some records.
+2022-03-03 12:43:07,948 DEBUG    [database.py:45] Retriving Data From Table
+2022-03-03 12:43:38,736 INFO     [database.py:38] Adding new Book's details
+2022-03-03 12:43:40,093 DEBUG    [database.py:45] Retriving Data From Table
