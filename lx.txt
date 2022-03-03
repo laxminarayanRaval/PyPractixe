@@ -203,3 +203,18 @@ __ BeautifulSoup isn't installing take rest when done __
 13-07 Terminal video. Pipenv and virtualenv
 13-08 Conclusion of this section
 *---------- ---------- ---------- ---------- ----------*
+
+*---------- - 14 Web Development with Flask  ----------*
+14-01 Intro to this section
+14-02 Setting up our project with Pipenv
+14-03 Our first Flask endpoint
+14-04 Returning information with Flask and Python
+14-05 Rendering HTML with Flask and Python
+14-06 Error pages and Jinja2 inheritance
+14-07 Rendering forms with Flask and Python
+14-08 Accessing POST form data with Flask
+14-09 Putting our form in a single endpoint
+14-10 Using Jinja2 for loops to create a nicer homepage
+14-11 Adding navigation to our website
+14-12 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
