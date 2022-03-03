@@ -26,6 +26,11 @@ class BooksParser:
         return self.parent.select_one(locator).attrs['title']
 
     @property
+    def href(self):
+        locator = BooksLocators.HREF
+        return self.parent.select_one(locator).attrs['href']
+
+    @property
     def ratings(self):
         locator = BooksLocators.RATINGS
         return self.TXTNUM[self.parent.select_one(locator).attrs['class'][1]]  # Txt "One" to Num "1"
