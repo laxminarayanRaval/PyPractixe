@@ -1,0 +1,152 @@
+03-03-2022 18:18:21 INFO     [app.py:23] Started Scraping
+03-03-2022 18:18:21 DEBUG    [app.py:25] Scraping Page No.1
+03-03-2022 18:18:21 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:22 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-1.html HTTP/1.1" 200 None
+03-03-2022 18:18:23 DEBUG    [app.py:25] Scraping Page No.2
+03-03-2022 18:18:23 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:24 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-2.html HTTP/1.1" 200 None
+03-03-2022 18:18:24 DEBUG    [app.py:25] Scraping Page No.3
+03-03-2022 18:18:24 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:25 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-3.html HTTP/1.1" 200 None
+03-03-2022 18:18:25 DEBUG    [app.py:25] Scraping Page No.4
+03-03-2022 18:18:25 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:26 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-4.html HTTP/1.1" 200 None
+03-03-2022 18:18:27 DEBUG    [app.py:25] Scraping Page No.5
+03-03-2022 18:18:27 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:28 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-5.html HTTP/1.1" 200 None
+03-03-2022 18:18:28 DEBUG    [app.py:25] Scraping Page No.6
+03-03-2022 18:18:28 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:29 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-6.html HTTP/1.1" 200 None
+03-03-2022 18:18:30 DEBUG    [app.py:25] Scraping Page No.7
+03-03-2022 18:18:30 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:31 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-7.html HTTP/1.1" 200 None
+03-03-2022 18:18:31 DEBUG    [app.py:25] Scraping Page No.8
+03-03-2022 18:18:31 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:32 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-8.html HTTP/1.1" 200 None
+03-03-2022 18:18:32 DEBUG    [app.py:25] Scraping Page No.9
+03-03-2022 18:18:32 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:34 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-9.html HTTP/1.1" 200 None
+03-03-2022 18:18:34 DEBUG    [app.py:25] Scraping Page No.10
+03-03-2022 18:18:34 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:35 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-10.html HTTP/1.1" 200 None
+03-03-2022 18:18:35 DEBUG    [app.py:25] Scraping Page No.11
+03-03-2022 18:18:35 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:36 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-11.html HTTP/1.1" 200 None
+03-03-2022 18:18:37 DEBUG    [app.py:25] Scraping Page No.12
+03-03-2022 18:18:37 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:38 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-12.html HTTP/1.1" 200 None
+03-03-2022 18:18:38 DEBUG    [app.py:25] Scraping Page No.13
+03-03-2022 18:18:38 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:39 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-13.html HTTP/1.1" 200 None
+03-03-2022 18:18:40 DEBUG    [app.py:25] Scraping Page No.14
+03-03-2022 18:18:40 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:41 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-14.html HTTP/1.1" 200 None
+03-03-2022 18:18:41 DEBUG    [app.py:25] Scraping Page No.15
+03-03-2022 18:18:41 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:42 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-15.html HTTP/1.1" 200 None
+03-03-2022 18:18:42 DEBUG    [app.py:25] Scraping Page No.16
+03-03-2022 18:18:42 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:44 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-16.html HTTP/1.1" 200 None
+03-03-2022 18:18:44 DEBUG    [app.py:25] Scraping Page No.17
+03-03-2022 18:18:44 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:45 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-17.html HTTP/1.1" 200 None
+03-03-2022 18:18:45 DEBUG    [app.py:25] Scraping Page No.18
+03-03-2022 18:18:45 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:46 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-18.html HTTP/1.1" 200 None
+03-03-2022 18:18:47 DEBUG    [app.py:25] Scraping Page No.19
+03-03-2022 18:18:47 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:48 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-19.html HTTP/1.1" 200 None
+03-03-2022 18:18:48 DEBUG    [app.py:25] Scraping Page No.20
+03-03-2022 18:18:48 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:49 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-20.html HTTP/1.1" 200 None
+03-03-2022 18:18:50 DEBUG    [app.py:25] Scraping Page No.21
+03-03-2022 18:18:50 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:51 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-21.html HTTP/1.1" 200 None
+03-03-2022 18:18:51 DEBUG    [app.py:25] Scraping Page No.22
+03-03-2022 18:18:51 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:52 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-22.html HTTP/1.1" 200 None
+03-03-2022 18:18:52 DEBUG    [app.py:25] Scraping Page No.23
+03-03-2022 18:18:52 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:54 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-23.html HTTP/1.1" 200 None
+03-03-2022 18:18:54 DEBUG    [app.py:25] Scraping Page No.24
+03-03-2022 18:18:54 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:55 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-24.html HTTP/1.1" 200 None
+03-03-2022 18:18:55 DEBUG    [app.py:25] Scraping Page No.25
+03-03-2022 18:18:55 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:56 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-25.html HTTP/1.1" 200 None
+03-03-2022 18:18:57 DEBUG    [app.py:25] Scraping Page No.26
+03-03-2022 18:18:57 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:58 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-26.html HTTP/1.1" 200 None
+03-03-2022 18:18:58 DEBUG    [app.py:25] Scraping Page No.27
+03-03-2022 18:18:58 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:18:59 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-27.html HTTP/1.1" 200 None
+03-03-2022 18:18:59 DEBUG    [app.py:25] Scraping Page No.28
+03-03-2022 18:18:59 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:01 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-28.html HTTP/1.1" 200 None
+03-03-2022 18:19:01 DEBUG    [app.py:25] Scraping Page No.29
+03-03-2022 18:19:01 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:02 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-29.html HTTP/1.1" 200 None
+03-03-2022 18:19:02 DEBUG    [app.py:25] Scraping Page No.30
+03-03-2022 18:19:02 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:03 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-30.html HTTP/1.1" 200 None
+03-03-2022 18:19:04 DEBUG    [app.py:25] Scraping Page No.31
+03-03-2022 18:19:04 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:05 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-31.html HTTP/1.1" 200 None
+03-03-2022 18:19:05 DEBUG    [app.py:25] Scraping Page No.32
+03-03-2022 18:19:05 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:06 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-32.html HTTP/1.1" 200 None
+03-03-2022 18:19:06 DEBUG    [app.py:25] Scraping Page No.33
+03-03-2022 18:19:06 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:08 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-33.html HTTP/1.1" 200 None
+03-03-2022 18:19:08 DEBUG    [app.py:25] Scraping Page No.34
+03-03-2022 18:19:08 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:09 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-34.html HTTP/1.1" 200 None
+03-03-2022 18:19:09 DEBUG    [app.py:25] Scraping Page No.35
+03-03-2022 18:19:09 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:10 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-35.html HTTP/1.1" 200 None
+03-03-2022 18:19:11 DEBUG    [app.py:25] Scraping Page No.36
+03-03-2022 18:19:11 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:12 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-36.html HTTP/1.1" 200 None
+03-03-2022 18:19:12 DEBUG    [app.py:25] Scraping Page No.37
+03-03-2022 18:19:12 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:13 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-37.html HTTP/1.1" 200 None
+03-03-2022 18:19:13 DEBUG    [app.py:25] Scraping Page No.38
+03-03-2022 18:19:13 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:15 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-38.html HTTP/1.1" 200 None
+03-03-2022 18:19:15 DEBUG    [app.py:25] Scraping Page No.39
+03-03-2022 18:19:15 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:16 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-39.html HTTP/1.1" 200 None
+03-03-2022 18:19:16 DEBUG    [app.py:25] Scraping Page No.40
+03-03-2022 18:19:16 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:17 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-40.html HTTP/1.1" 200 None
+03-03-2022 18:19:18 DEBUG    [app.py:25] Scraping Page No.41
+03-03-2022 18:19:18 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:19 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-41.html HTTP/1.1" 200 None
+03-03-2022 18:19:19 DEBUG    [app.py:25] Scraping Page No.42
+03-03-2022 18:19:19 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:20 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-42.html HTTP/1.1" 200 None
+03-03-2022 18:19:20 DEBUG    [app.py:25] Scraping Page No.43
+03-03-2022 18:19:20 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:22 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-43.html HTTP/1.1" 200 None
+03-03-2022 18:19:22 DEBUG    [app.py:25] Scraping Page No.44
+03-03-2022 18:19:22 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:23 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-44.html HTTP/1.1" 200 None
+03-03-2022 18:19:23 DEBUG    [app.py:25] Scraping Page No.45
+03-03-2022 18:19:23 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:24 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-45.html HTTP/1.1" 200 None
+03-03-2022 18:19:25 DEBUG    [app.py:25] Scraping Page No.46
+03-03-2022 18:19:25 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:26 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-46.html HTTP/1.1" 200 None
+03-03-2022 18:19:26 DEBUG    [app.py:25] Scraping Page No.47
+03-03-2022 18:19:26 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:27 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-47.html HTTP/1.1" 200 None
+03-03-2022 18:19:28 DEBUG    [app.py:25] Scraping Page No.48
+03-03-2022 18:19:28 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:29 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-48.html HTTP/1.1" 200 None
+03-03-2022 18:19:29 DEBUG    [app.py:25] Scraping Page No.49
+03-03-2022 18:19:29 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:30 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-49.html HTTP/1.1" 200 None
+03-03-2022 18:19:30 DEBUG    [app.py:25] Scraping Page No.50
+03-03-2022 18:19:30 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): books.toscrape.com:443
+03-03-2022 18:19:32 DEBUG    [connectionpool.py:456] https://books.toscrape.com:443 "GET /catalogue/page-50.html HTTP/1.1" 200 None
+03-03-2022 18:19:32 INFO     [app.py:29] Scraping Done

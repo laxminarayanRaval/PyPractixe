@@ -1,10 +1,11 @@
 from app import books
-import logging
-
-logging.basicConfig(
+import logging as lg
+# logging is using singleton pattern it will be same
+lg.basicConfig(
     format='%(asctime)s %(levelname)-8s [%(filename)s:%(lineno)d] %(message)s',
     filename='BookScraping.log',
-    level=logging.DEBUG
+    datefmt='%d-%m-%Y %H:%M:%S',
+    level=lg.INFO
 )
 
 books_generator = (x for x in books)
@@ -16,7 +17,6 @@ Select Your Filter:
     'n' - Book one by one
     'q' - Quit the Program
 Inter Your Choice: """
-
 
 
 def high_rated_books():  # sort By Ratings in Desc
@@ -49,7 +49,7 @@ user_choices = {
 
 def menu():
     user_input = input(USER_CHOICE)
-    logging.debug('User Started Running Program')
+    lg.critical('User Started Running Program')
     while user_input != 'q':
         print('------------------------')
         if user_input == 'n':
@@ -66,7 +66,7 @@ def menu():
             for d in data:
                 print(f"Title: {d.title}\n\tRatings: {d.ratings} Stars\t Price: {d.price}")
         user_input = input(USER_CHOICE)
-    logging.info('User Ended Program')
+    lg.info('User Ended Program')
 
 
 menu()
