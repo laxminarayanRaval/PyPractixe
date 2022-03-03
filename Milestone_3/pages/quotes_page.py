@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 
 from locators.quotes_pages_locators import QuotesPageLocators
-from parsers.qoutes import QuoteParser
+from parsers.quotes import QuoteParser
 
 
 class QuotesPage:
