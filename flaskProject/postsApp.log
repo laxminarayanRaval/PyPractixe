@@ -523,3 +523,23 @@
 04-03-2022 16:47:47 INFO     [_internal.py:225] 127.0.0.1 - - [04/Mar/2022 16:47:47] "[32mPOST /post/create HTTP/1.1[0m" 302 -
 04-03-2022 16:47:47 INFO     [_internal.py:225] 127.0.0.1 - - [04/Mar/2022 16:47:47] "GET /post/4 HTTP/1.1" 200 -
 04-03-2022 16:47:53 INFO     [_internal.py:225] 127.0.0.1 - - [04/Mar/2022 16:47:53] "GET / HTTP/1.1" 200 -
+04-03-2022 17:55:46 INFO     [_internal.py:225]  * Detected change in '/home/intel/Desktop/LaxminarayanR/PyPractixe/flaskProject/app.py', reloading
+04-03-2022 17:55:46 INFO     [_internal.py:225]  * Restarting with stat
+04-03-2022 17:55:46 WARNING  [_internal.py:225]  * Debugger is active!
+04-03-2022 17:55:46 INFO     [_internal.py:225]  * Debugger PIN: 130-826-707
+04-03-2022 17:55:51 INFO     [_internal.py:225]  * Detected change in '/home/intel/Desktop/LaxminarayanR/PyPractixe/flaskProject/app.py', reloading
+04-03-2022 17:55:51 INFO     [_internal.py:225]  * Restarting with stat
+04-03-2022 17:55:51 WARNING  [_internal.py:225]  * Debugger is active!
+04-03-2022 17:55:51 INFO     [_internal.py:225]  * Debugger PIN: 130-826-707
+04-03-2022 17:56:23 INFO     [_internal.py:225]  * Detected change in '/home/intel/Desktop/LaxminarayanR/PyPractixe/flaskProject/app.py', reloading
+04-03-2022 17:56:23 INFO     [_internal.py:225]  * Restarting with stat
+04-03-2022 17:56:23 WARNING  [_internal.py:225]  * Debugger is active!
+04-03-2022 17:56:23 INFO     [_internal.py:225]  * Debugger PIN: 130-826-707
+04-03-2022 17:56:25 INFO     [_internal.py:225]  * Detected change in '/home/intel/Desktop/LaxminarayanR/PyPractixe/flaskProject/app.py', reloading
+04-03-2022 17:56:25 INFO     [_internal.py:225]  * Restarting with stat
+04-03-2022 17:56:25 WARNING  [_internal.py:225]  * Debugger is active!
+04-03-2022 17:56:25 INFO     [_internal.py:225]  * Debugger PIN: 130-826-707
+04-03-2022 17:57:39 INFO     [_internal.py:225]  * Detected change in '/home/intel/Desktop/LaxminarayanR/PyPractixe/flaskProject/utils/posts_model.py', reloading
+04-03-2022 17:57:39 INFO     [_internal.py:225]  * Restarting with stat
+04-03-2022 17:57:40 WARNING  [_internal.py:225]  * Debugger is active!
+04-03-2022 17:57:40 INFO     [_internal.py:225]  * Debugger PIN: 130-826-707

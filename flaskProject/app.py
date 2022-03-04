@@ -75,7 +75,8 @@ def create():
         pdate = request.form.get('pdate')
         post_id = get_posts_cnt() + 1
         # posts[post_id] = {'id': post_id, 'title': title, 'author': author, 'content': content, 'date': pdate}
-        postmodel.new_post(post_id, title, author, content, pdate)
+        # postmodel.new_post(**{'id': post_id, 'title': title, 'author': author, 'content': content, 'date': pdate})  # for passing dictionary as **kwargs
+        postmodel.new_post(post_id, title, author, content, pdate)  # passing multiple arguments, here we can use arguement packing too
         return redirect(url_for('post', post_id=post_id))
     return render_template('create.jinja2')
 

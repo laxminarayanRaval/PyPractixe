@@ -17,7 +17,7 @@ class PostsModel:
         post_date text) """
         self.db.aud(qry)
 
-    def new_post(self, *post_data):
+    def new_post(self, *post_data):  # accepting tuple right now, we can accept **post_data (dictionary) too
         qry = """INSERT INTO posts_mst VALUES(?, ?, ?, ?, ?)"""
         self.db.aud(qry, post_data)
         logging.info("New Data Added to Database.")
