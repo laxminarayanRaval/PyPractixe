@@ -3,6 +3,21 @@ let arr=[];
 for(let i=0;i<da.length;i++) arr.push(da[i].innerHTML);
 arr.map(item=>console.log(item.slice(0,-4)));
 
+*---------- ------ 01 Intro to Python ------ ----------*
+01-01 Welcome to this course!
+01-02 Overview of the course curriculum
+01-03 Introduction to this section
+01-04 Our Python coding environment
+01-05 Numbers and printing in Python
+01-06 Python strings and string formatting
+01-07 Getting user input in Python
+01-08 Boolean and comparisons in Python
+01-09 Lists, tuples, and sets in Python
+01-10 Advanced set operations
+01-11 Python dictionaries
+01-12 Calculating the length of lists
+01-13 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
 
 *---------- 02 Functions and loops in Python ----------*
 02-01 Introduction to this section
@@ -89,7 +104,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 07-14 Filtering with WHERE
 07-15 Finishing the Milestone Project
 07-16 Ordering and limiting
-
 07-17 Developing our context manager in Python
 07-18 Errors in context managers
 07-19 Conclusion of this section
@@ -216,4 +230,26 @@ arr.map(item=>console.log(item.slice(0,-4)));
 14-10 Using Jinja2 for loops to create a nicer homepage
 14-11 Adding navigation to our website
 14-12 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- ---- 15 Decorators in Python --- ----------*
+15-01 Introduction to this section
+15-02 A simple decorator in Python
+15-03 Using a @syntax
+15-04 Functools wraps in Python
+15-05 Decorating functions with parameters
+15-06 Decorators with parameters
+15-07 Functions that accept multiple arguments
+15-08 Generic decorators for any function
+15-09 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*------ 16 Advanced Object-Oriented Programming -------*
+16-01 Introduction to this section
+16-02 Intro to multiple inheritance with Python
+16-03 Intro to ABCs in Python
+16-04 The usefulness of ABCs
+16-05 The relationship between ABCs and interfaces
+16-06 The property setter in Python
+16-07 Conclusion of this section
 *---------- ---------- ---------- ---------- ----------*
