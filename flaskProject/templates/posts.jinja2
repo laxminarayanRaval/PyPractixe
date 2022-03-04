@@ -1,0 +1,8 @@
+{% extends 'base.jinja2' %}
+{% block title %} {{ post[1] }} {% endblock %}
+{% block content %}
+    <h4>Author: {{ post[2] }}</h4>
+    <h1>{{ post[1] }}</h1>
+    <p>{{ post[3] }}</p>
+    <h6>Published on: {{ post[4] }}</h6>
+{% endblock %}

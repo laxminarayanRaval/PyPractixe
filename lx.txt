@@ -147,8 +147,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 11-11 Quotes Project 4. Crafting our quote parser 
 11-12 Quotes Project 5. The quotes page 
 11-13 Quotes Project 6. Recap of the project
-
-__ BeautifulSoup isn't installing take rest when done __
 11-14 Milestone Project 4. A Book Scraper + application 
 11-15 Books Project 2. Recap of HTML locators 
 11-16 Books Project 3. Creating locators in Python 
@@ -211,6 +209,7 @@ __ BeautifulSoup isn't installing take rest when done __
 14-04 Returning information with Flask and Python
 14-05 Rendering HTML with Flask and Python
 14-06 Error pages and Jinja2 inheritance
+
 14-07 Rendering forms with Flask and Python
 14-08 Accessing POST form data with Flask
 14-09 Putting our form in a single endpoint

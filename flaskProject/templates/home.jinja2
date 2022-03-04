@@ -1,0 +1,8 @@
+{% extends 'base.jinja2' %}
+{% block title %} Create a New Post {% endblock %}
+{% block content %}
+    <a href="{{ url_for('create') }}">Create a New Post</a><br>
+    {% for post in posts %}
+        <h3><a href="{{ url_for('post', post_id=post[0]) }}">{{ post[1] }}</a></h3><h6>Published on: {{ post[4] }}  Post By: {{ post[2] }}</h6>
+    {% endfor %}
+{% endblock %}

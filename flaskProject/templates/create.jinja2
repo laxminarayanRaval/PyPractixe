@@ -1,0 +1,29 @@
+{% extends 'base.jinja2' %}
+{% block title %} Create a New Post {% endblock %}
+{% block content %}
+    <h1>Create New Post</h1>
+    <form method="post" action="/post/create">
+        <table cellspacing="10">
+            <tr>
+                <td><label for="title">Title</label></td>
+                <td><input type="text" name="title" /></td>
+            </tr>
+            <tr>
+                <td><label for="content">Content</label></td>
+                <td><textarea name="content" cols="30" rows="5"></textarea></td>
+            </tr>
+            <tr>
+                <td><label for="author">Author</label></td>
+                <td><input type="text" name="author" /></td>
+            </tr>
+            <tr>
+                <td><label for="pdate">Post Date</label></td>
+                <td><input type="date" name="pdate"></td>
+            </tr>
+            <tr>
+                <td><input type="reset" value="Reset"></td>
+                <td><input type="submit" value="Make a Post" /></td>
+            </tr>
+        </table>
+    </form>
+{% endblock %}
