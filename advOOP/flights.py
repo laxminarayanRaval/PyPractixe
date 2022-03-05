@@ -29,7 +29,21 @@ class Flight:
         dest = self.segments[0].destination
         self.segments[0] = Segment(departure=val, destination=dest)
 
+    @property
+    def via_point(self) -> List:
+        return self.segments
 
-f = Flight([Segment('SRT', 'KLT'), Segment('KLT', 'DHL')])
-f.departure_point = 'MGL'
+    @via_point.setter
+    def via_point(self, dept):
+        i = len(self.segments) - 1
+        dest = self.segments[i].destination
+        self.segments[i].destination = dept
+        self.segments.append(Segment(departure=dept, destination=dest))
+
+
+f = Flight([Segment('CHN', 'KLT')])
+f.via_point = 'BMY'
+f.via_point = 'DLH'
+f.via_point = 'PTN'
+# f.departure_point = 'MGL'
 print(f)

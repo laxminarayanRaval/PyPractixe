@@ -223,7 +223,6 @@ arr.map(item=>console.log(item.slice(0,-4)));
 14-04 Returning information with Flask and Python
 14-05 Rendering HTML with Flask and Python
 14-06 Error pages and Jinja2 inheritance
-
 14-07 Rendering forms with Flask and Python
 14-08 Accessing POST form data with Flask
 14-09 Putting our form in a single endpoint
@@ -253,3 +252,34 @@ arr.map(item=>console.log(item.slice(0,-4)));
 16-06 The property setter in Python
 16-07 Conclusion of this section
 *---------- ---------- ---------- ---------- ----------*
+
+*--------- 17 Algorithms and Data Structures ----------*
+17-01 Introduction to this section
+17-02 Presentation. Queues, stacks, and complexity
+17-03 Presentation. Binary search
+17-04 Presentation. Binary trees
+17-05 Presentation. Traversal of binary trees
+17-06 Presentation. Adding elements to a binary tree
+17-07 Adding elements to a binary tree in Python
+17-08 Recursion and inorder traversal in Python
+17-09 Finding nodes in a tree with Python
+17-10 How do you delete nodes from a binary tree
+17-11 Deleting nodes in code with Python
+17-12 Deleting nodes with two children in code
+17-13 Testing our binary tree!
+17-14 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+*---------- ------ 18 Python libraries ----- ----------*
+18-01 Introduction to this section
+18-02 Python libraries overview
+18-03 Using pylint
+18-04 Using yapf
+18-05 Sending e-mails with smtplib
+18-06 Sending e-mails with Mailgun
+18-07 Creating a re-usable Mailgun library
+18-08 Sneak peek. My IDE setup!
+18-09 Conclusion of this section
+*---------- ---------- ---------- ---------- ----------*
+
+
