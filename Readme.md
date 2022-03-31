@@ -15,4 +15,6 @@
 - 13 Python on the console and managing project dependencies
 - 14 Web Development with Flask
 - 15 Decorators in Python
-
+- 16 Advanced Object-Oriented Programming
+- 17 Algorithms and Data Structures
+- 18 Python libraries
